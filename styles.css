@@ -1,0 +1,12 @@
+body {
+    color: aliceblue;
+    background-attachment:fixed ;
+    background-position: center;
+    }
+   
+.slider-image {
+    display: flex;
+    width: 400px;
+    height: 200px;
+    gap: 50px;
+    }
